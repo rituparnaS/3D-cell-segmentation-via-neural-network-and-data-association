@@ -1,0 +1,6 @@
+Code and data for "3D Cell Morphology Detection by Association forEmbryo Heart Morphogenesis" soon to appear.
+Consists of
+  Neural network code
+  Data association code
+  Directions for running active contour on ICY
+  Sample solution for creating ground truth on ICY
